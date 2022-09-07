@@ -1,6 +1,6 @@
 # m1-init
 
-This is my personal place to keep in mind what I have to install if I freshly setup up my Mac M1.
+Fresh M1 Setup
 
 ### iTerm2 - Terminal
 
